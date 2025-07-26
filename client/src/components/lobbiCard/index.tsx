@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom"
-import { ILobbi } from "../../common/types/lobbi"
+import { ILobbi } from "../../common/types/lobbi/index.ts"
 import style from "./style.module.css"
 import ModalPassword from "../modalPassword/index.tsx"
 import { useState } from "react"

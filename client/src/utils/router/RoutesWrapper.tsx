@@ -1,5 +1,5 @@
 import { matchPath, Route, Routes, useLocation } from "react-router-dom";
-import { Footer, Header } from "../../components/wrap/wrap";
+import { Footer, Header } from "../../components/wrap/wrap.tsx";
 
 import AuthRoot from "../../pages/auth/index.tsx";
 import LobbiListPage from "../../pages/lobbiList/index.tsx";
